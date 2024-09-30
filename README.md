@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kshitij Kumar(@Kshitij230)
 - 👀 I’m interested in learning Programming languages
 - 🌱 I’m currently learning Python and Web Development
-- 📫 How to reach me:- Now, here is my Email Address you can mail me here ;) ==> kshitijkumar230@gmail.com or kshitijkumar230@outlook.com and by filling up this form https://forms.office.com/r/KBfuuBXkYr
+- 📫 How to reach me:- Now, here is my Email Address you can mail me here ;) ==> kshitijkumar230@gmail.com or kshitijkumar230@outlook.com or kshitij.kumar@op.iitg.ac.in
 
 <!---
 Kshitij-Python/Kshitij-Python is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
